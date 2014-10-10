@@ -2,7 +2,7 @@
   "name": "apartment_lab",
   "version": "0.0.1",
   "description": "a lab for playing with constructors and prototypes in JS",
-  "main": "index.js",
+  "main": "src/car.js",
   "directories": {
     "test": "test"
   },
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^1.9.1"
+    "chai": "^1.9.2"
   }
 }
